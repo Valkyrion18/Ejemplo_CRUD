@@ -1,0 +1,34 @@
+{
+  "usuarios": [
+    {
+      "id": 2,
+      "nombre": "Juan David",
+      "apellido": "Méndez2",
+      "correo": "repoyito@gmail.com"
+    },
+    {
+      "nombre": "Jose",
+      "apellido": "Sanchez",
+      "correo": "artillero1428@gmail.com",
+      "id": 3
+    },
+    {
+      "id": 4,
+      "nombre": "Jose Andres",
+      "apellido": "Sanchez",
+      "correo": "ripaiple_jam@hotmail.com"
+    },
+    {
+      "nombre": "Jose",
+      "apellido": "Sanchez",
+      "correo": "juan@autonoma.co",
+      "id": 7
+    },
+    {
+      "nombre": "",
+      "apellido": "",
+      "correo": "ripaiple_jam@hotmail.com",
+      "id": 8
+    }
+  ]
+}
